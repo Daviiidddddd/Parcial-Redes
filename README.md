@@ -1,7 +1,7 @@
-# Evaluación de la Capa Física y Transformada de Fourier
+# Parcial Redes De Computación
 
-## Contexto
-En la capa física del modelo OSI, la transmisión de datos se basa en señales analógicas y digitales que viajan a través de diferentes medios de transmisión. El análisis de estas señales es fundamental para comprender el desempeño de un canal y las posibles interferencias o pérdidas de información. Una de las herramientas matemáticas clave en este análisis es la **Transformada de Fourier**, que permite representar una señal en el dominio de la frecuencia.
+## David Castellanos, Jeancarlo Rodriguez y Andrés Torres
+En este repositorio, se encuentran respondidas las preguntas correspondientes al parcial del primer corte de la materia, dividido por puntos para mayor comprensión
 
 ## Preguntas y Respuestas
 
@@ -36,4 +36,10 @@ Al aplicar la **Transformada de Fourier**, se obtiene su representación en el d
 - **Tres picos** en \( f_1 \), \( f_2 \) y \( f_3 \), reflejando que la señal está compuesta por estas frecuencias fundamentales.
 
 Esta representación es clave para el diseño de filtros y la optimización del ancho de banda en redes de comunicación.
+
+Conclusión
+
+La Transformada de Fourier es una herramienta esencial en el análisis de señales en la capa física de las redes de comunicación. Permite entender cómo se comportan las señales en el dominio de la frecuencia, identificar interferencias y diseñar estrategias para mejorar la transmisión de datos. Su uso es fundamental en tecnologías como modulación de señales, codificación digital, procesamiento de audio y video, y diseño de circuitos de telecomunicaciones.
+
+Además, la Transformada de Fourier es la base de muchas otras técnicas avanzadas, como la Transformada Rápida de Fourier (FFT), que optimiza los cálculos y permite su implementación eficiente en hardware y software. En un entorno de redes de datos, comprender y aplicar esta herramienta puede marcar la diferencia en la calidad y eficiencia de la comunicación digital.
 
