@@ -5,6 +5,8 @@ En este repositorio, se encuentran respondidas las preguntas correspondientes al
 
 ## Preguntas y Respuestas
 
+## Punto 1
+
 ### 1. ¿Cómo contribuye la Transformada de Fourier al análisis de señales en la capa física?
 La **Transformada de Fourier (TF)** es una herramienta matemática fundamental en el análisis de señales en la capa física del modelo OSI, ya que permite convertir una señal en el **dominio del tiempo** a su representación en el **dominio de la frecuencia**. Esto es esencial para entender la composición espectral de una señal, identificar componentes de ruido y evaluar el desempeño del canal de comunicación.
 
