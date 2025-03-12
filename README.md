@@ -1,4 +1,4 @@
-# Parcial Redes De Computación
+**Explicación**
 
-## David Castellanos, Jeancarlo Rodriguez y Andrés Torres
-En este repositorio, se encuentran respondidas las preguntas correspondientes al parcial del primer corte de la materia, dividido por puntos para mayor comprensión.
+En el archivo zip se encuentran los códigos para ejecutar el chat de 4 clientes y 1 servidor en adición se adjunta captura de pantalla de la ejecución del programa como lo fue requerido, con los mensajes de información acerca de que cliente esta en conexión, confirmación de conexión con el servidor y en la dirección (ip **127.0.0.1** y el puerto **8080**)
+
